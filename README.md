@@ -66,10 +66,11 @@ Use MiroFish when you need:
 
 ## Adjacent Products Worth Comparing
 
-If you are evaluating MiroFish as part of a larger agent stack, these three product pages are worth opening because they solve adjacent problems that people often confuse with simulation systems:
+If you are evaluating MiroFish as part of a larger agent stack, these four product pages are worth opening because they solve adjacent problems that people often confuse with simulation systems:
 
 | Product | Link | Why a MiroFish reader should care |
 | --- | --- | --- |
+| GenericAgent | <https://www.genericagent.org/> | Useful when you want an agent workspace with browser, terminal, filesystem, and memory control instead of a scenario simulation system. |
 | OpenClaw Launch | <https://www.aigeamy.com/> | `OpenClaw Launch - One-click OpenClaw Deployment`. Useful when you want a fast path to a messaging-first assistant runtime instead of a seed -> graph -> simulation workflow. |
 | Hermes Agent | <https://hermesagent.studio/> | `Not a Chat. A Persistent Agent That Remembers, Acts, and Improves.` Useful when you want a long-lived agent with memory, tools, and ongoing state rather than scenario modeling. |
 | Multica | <https://www.multica.uk/> | `Multica - Multi-Agent Collaboration for Real Workflows`. Useful when your main problem is coordinating coding agents and issue-driven delivery, not generating simulation reports. |

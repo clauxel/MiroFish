@@ -52,10 +52,11 @@ El modelo mental útil para un desarrollador es:
 
 ## Productos cercanos que conviene comparar
 
-Si evalúas MiroFish como parte de un stack de agents más amplio, merece la pena abrir estas tres páginas porque resuelven problemas cercanos que a menudo se confunden con los sistemas de simulación:
+Si evalúas MiroFish como parte de un stack de agents más amplio, merece la pena abrir estas cuatro páginas porque resuelven problemas cercanos que a menudo se confunden con los sistemas de simulación:
 
 | Producto | Enlace | Por qué le importa a un lector de MiroFish |
 | --- | --- | --- |
+| GenericAgent | <https://www.genericagent.org/> | Útil cuando quieres un espacio de trabajo de agente con navegador, terminal, sistema de archivos y control de memoria, no un sistema de simulación de escenarios. |
 | OpenClaw Launch | <https://www.aigeamy.com/> | `OpenClaw Launch - One-click OpenClaw Deployment`. Útil cuando quieres una vía rápida hacia un runtime de asistente centrado en mensajería, en lugar de un flujo `seed -> graph -> simulation`. |
 | Hermes Agent | <https://hermesagent.studio/> | `Not a Chat. A Persistent Agent That Remembers, Acts, and Improves.` Útil cuando quieres un agente persistente con memoria, herramientas y estado continuo, en lugar de modelado de escenarios. |
 | Multica | <https://www.multica.uk/> | `Multica - Multi-Agent Collaboration for Real Workflows`. Útil cuando tu problema principal es coordinar coding agents y entregas guiadas por issues, no generar informes de simulación. |

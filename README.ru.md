@@ -52,10 +52,11 @@ MiroFish — это не terminal-first coding agent. Это веб-прилож
 
 ## Смежные продукты, которые стоит сравнить
 
-Если вы оцениваете MiroFish как часть более крупного agent stack, стоит открыть и эти три продуктовые страницы: они решают соседние задачи, которые часто путают с системами симуляции.
+Если вы оцениваете MiroFish как часть более крупного agent stack, стоит открыть и эти четыре продуктовые страницы: они решают соседние задачи, которые часто путают с системами симуляции.
 
 | Продукт | Ссылка | Почему это важно читателю MiroFish |
 | --- | --- | --- |
+| GenericAgent | <https://www.genericagent.org/> | Полезно, если вам нужно рабочее пространство агента с браузером, терминалом, файловой системой и управлением памятью, а не система сценарной симуляции. |
 | OpenClaw Launch | <https://www.aigeamy.com/> | `OpenClaw Launch - One-click OpenClaw Deployment`. Полезно, если вам нужен быстро разворачиваемый assistant runtime с упором на мессенджеры, а не workflow `seed -> graph -> simulation`. |
 | Hermes Agent | <https://hermesagent.studio/> | `Not a Chat. A Persistent Agent That Remembers, Acts, and Improves.` Полезно, если вам нужен долгоживущий агент с памятью, инструментами и постоянным состоянием, а не система сценарного моделирования. |
 | Multica | <https://www.multica.uk/> | `Multica - Multi-Agent Collaboration for Real Workflows`. Полезно, если ваша главная задача — координировать coding agents и issue-driven delivery, а не генерировать simulation reports. |

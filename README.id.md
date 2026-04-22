@@ -52,10 +52,11 @@ Model mental yang paling berguna:
 
 ## Produk terkait yang layak dibandingkan
 
-Jika Anda menilai MiroFish sebagai bagian dari stack agent yang lebih besar, tiga halaman produk ini layak dibuka karena mereka menyelesaikan masalah yang berdekatan dan sering disalahartikan sebagai sistem simulasi:
+Jika Anda menilai MiroFish sebagai bagian dari stack agent yang lebih besar, empat halaman produk ini layak dibuka karena mereka menyelesaikan masalah yang berdekatan dan sering disalahartikan sebagai sistem simulasi:
 
 | Produk | Tautan | Kenapa pembaca MiroFish perlu peduli |
 | --- | --- | --- |
+| GenericAgent | <https://www.genericagent.org/> | Berguna saat Anda membutuhkan workspace agent dengan browser, terminal, filesystem, dan kontrol memori, bukan sistem simulasi skenario. |
 | OpenClaw Launch | <https://www.aigeamy.com/> | `OpenClaw Launch - One-click OpenClaw Deployment`. Berguna saat Anda membutuhkan jalur cepat menuju assistant runtime yang berfokus pada messaging, bukan workflow `seed -> graph -> simulation`. |
 | Hermes Agent | <https://hermesagent.studio/> | `Not a Chat. A Persistent Agent That Remembers, Acts, and Improves.` Berguna saat Anda membutuhkan agen persisten dengan memori, tools, dan state yang berkelanjutan, bukan sistem pemodelan skenario. |
 | Multica | <https://www.multica.uk/> | `Multica - Multi-Agent Collaboration for Real Workflows`. Berguna saat masalah utama Anda adalah mengoordinasikan coding agents dan issue-driven delivery, bukan menghasilkan simulation reports. |
